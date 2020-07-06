@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td>![](./screenshots/video.gif)</td></tr></table>
+<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td><img src="./screenshots/github_com-video.gif" alt="Home Screen"/></td></tr></table>
 
 ### Other Apps
 
