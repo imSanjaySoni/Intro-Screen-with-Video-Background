@@ -2,9 +2,7 @@
 
 ### Screenshots
 
-<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td><video width="720px" height="1280px" controls>
-  <source src="video.mp4" type="video/mp4">
-</video></td></tr></table>
+<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td>![](./screenshots/video.gif)></td></tr></table>
 
 ### Other Apps
 
