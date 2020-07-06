@@ -2,7 +2,9 @@
 
 ### Screenshots
 
-<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td>[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](./screenshots/video.mp4)</td></tr></table>
+<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td><video  controls>
+  <source src="video.mp4" type="video/mp4">
+</video></td></tr></table>
 
 ### Other Apps
 
