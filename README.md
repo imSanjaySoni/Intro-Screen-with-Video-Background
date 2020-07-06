@@ -1,8 +1,8 @@
-# Video Background
+# Intro Screen with Video Background
 
 ### Screenshots
 
-<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td><video src="./screenshots/video.mp4" alt="video"/></td></tr></table>
+<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen"/></td><td>[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](./screenshots/video.mp4)</td></tr></table>
 
 ### Other Apps
 
