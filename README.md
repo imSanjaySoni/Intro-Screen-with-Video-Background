@@ -2,7 +2,7 @@
 
 ### Screenshots
 
-<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen" height="1280" width="720"/></td><td><img src="./screenshots/github_com-video.gif" alt="Home Screen" height="1280" width="720"/></td></tr></table>
+<table style={border:"none"}><tr><td><img src="./screenshots/image.jpg" alt="Home Screen" height="700" width="380"/></td><td><img src="./screenshots/github_com-video.gif" alt="Home Screen" height="700" width="380"/></td></tr></table>
 
 ### Other Apps
 
